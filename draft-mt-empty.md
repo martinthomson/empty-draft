@@ -1,6 +1,6 @@
 ---
 title: "Empty Draft"
-docname: draft-todo-yourname-protocol-latest
+docname: draft-mt-empty-latest
 category: info
 
 ipr: trust200902
