@@ -4,13 +4,11 @@ docname: draft-mt-empty-latest
 category: info
 
 ipr: trust200902
-area: TODO
-workgroup: TODO Working Group
+area: GEN
+workgroup: No Working Group
 keyword: Internet-Draft
-
-stand_alone: yes
-smart_quotes: no
-pi: [toc, sortrefs, symrefs]
+pi:
+  toc: false
 
 author:
  -
@@ -20,14 +18,17 @@ author:
 
 --- abstract
 
-This is an empty document.
+This Internet-Draft contains an absolute minimum of content.
 
 --- middle
+
+# Introduction
+
+This document contains more boilerplate than content.
 
 # Security Considerations
 
 There are none.
-
 
 # IANA Considerations
 
