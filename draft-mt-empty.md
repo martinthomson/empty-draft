@@ -22,7 +22,7 @@ This Internet-Draft contains an absolute minimum of content.
 
 --- middle
 
-# Introduction
+# Observation
 
 This document contains more boilerplate than content.
 
