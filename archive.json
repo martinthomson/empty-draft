@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2023-07-11T01:35:13.976625+00:00",
+  "timestamp": "2023-07-13T01:45:36.447886+00:00",
   "repo": "martinthomson/empty-draft",
   "labels": [
     {
@@ -49,6 +49,23 @@
       "color": "ffffff"
     }
   ],
-  "issues": [],
+  "issues": [
+    {
+      "number": 1,
+      "id": "I_kwDOGbtX5s5rKtFq",
+      "title": "Feedback on draft-thomson-hybi-http-timeout-00",
+      "url": "https://github.com/martinthomson/empty-draft/issues/1",
+      "state": "OPEN",
+      "author": "zerkms",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "Hi Martin,\r\n\r\nmy apologies for creating an issue in this repository but I could not find a better way contact you :-)\r\n\r\nI've been researching a question of \"cooperative\" http timeouts in distributed systems (which is almost everything now in 2023), to adopt in my server- and client- applications. Just to find out that it literally was only one `draft-thomson-hybi-http-timeout-00` (preceded by `draft-loreto-http-timeout-00`) ever published, with no active (or at all?) discussion around it.\r\n\r\nIt's pity the community didn't decide to follow along.\r\n\r\nNonetheless, it very well aligns with my opinion on how to negotiate timeouts too, so I think I will just be using the `request-timeout` header in my software :-)\r\n\r\nThanks for the draft and your work with standards in general, and sorry again for publishing this message here.",
+      "createdAt": "2023-07-11T02:41:41Z",
+      "updatedAt": "2023-07-11T02:41:41Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
   "pulls": []
 }
