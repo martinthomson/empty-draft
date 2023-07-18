@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2023-07-16T01:55:28.496297+00:00",
+  "timestamp": "2023-07-18T01:54:42.969566+00:00",
   "repo": "martinthomson/empty-draft",
   "labels": [
     {
@@ -55,16 +55,24 @@
       "id": "I_kwDOGbtX5s5rKtFq",
       "title": "Feedback on draft-thomson-hybi-http-timeout-00",
       "url": "https://github.com/martinthomson/empty-draft/issues/1",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "zerkms",
       "authorAssociation": "NONE",
       "assignees": [],
       "labels": [],
       "body": "Hi Martin,\r\n\r\nmy apologies for creating an issue in this repository but I could not find a better way contact you :-)\r\n\r\nI've been researching a question of \"cooperative\" http timeouts in distributed systems (which is almost everything now in 2023), to adopt in my server- and client- applications. Just to find out that it literally was only one `draft-thomson-hybi-http-timeout-00` (preceded by `draft-loreto-http-timeout-00`) ever published, with no active (or at all?) discussion around it.\r\n\r\nIt's pity the community didn't decide to follow along.\r\n\r\nNonetheless, it very well aligns with my opinion on how to negotiate timeouts too, so I think I will just be using the `request-timeout` header in my software :-)\r\n\r\nThanks for the draft and your work with standards in general, and sorry again for publishing this message here.",
       "createdAt": "2023-07-11T02:41:41Z",
-      "updatedAt": "2023-07-11T02:41:41Z",
-      "closedAt": null,
-      "comments": []
+      "updatedAt": "2023-07-17T23:16:27Z",
+      "closedAt": "2023-07-17T23:16:27Z",
+      "comments": [
+        {
+          "author": "martinthomson",
+          "authorAssociation": "OWNER",
+          "body": "My email is in the draft, try that.\r\n\r\nYou might like to look at https://www.rfc-editor.org/rfc/rfc7240#section-4.3 which is the successor of those early ideas.",
+          "createdAt": "2023-07-17T04:35:13Z",
+          "updatedAt": "2023-07-17T04:35:13Z"
+        }
+      ]
     }
   ],
   "pulls": []
